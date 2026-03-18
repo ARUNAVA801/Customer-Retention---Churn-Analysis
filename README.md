@@ -1,4 +1,4 @@
-# Customemr and CHurn Analysis
+# Customer and Churn Analysis
 
 Customer Retention & Churn Analysis is all about solving 3 core problems: Who is churning? , Why are they churning?, How can we retain them?
 
